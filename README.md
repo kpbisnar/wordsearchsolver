@@ -1,4 +1,4 @@
-# wordsearchsolver2
+# wordsearchsolver 
  I created a code that can solve word search puzzles by inputting the number of words and the words to 
 be search by the program. The program only accepts positive integer number (excluding 0) for the number
 of words and the program only accepts letters in the alphabet as its input in the words. If they are not sati
